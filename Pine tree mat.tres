@@ -2,7 +2,3 @@
 
 [resource]
 transparency = 1
-albedo_color = Color(0.69411767, 0.9019608, 0.5568628, 1)
-roughness = 0.46
-uv1_scale = Vector3(5, 5, 5)
-uv1_triplanar = true
