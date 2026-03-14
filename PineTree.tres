@@ -1,9 +1,0 @@
-[gd_resource type="Resource" script_class="AssetEntry" format=3 uid="uid://cwiva2gt25igr"]
-
-[ext_resource type="Script" uid="uid://bnck2lu477xi0" path="res://Scripts/Resources/AssetEntry.gd" id="1_1r265"]
-
-[resource]
-script = ExtResource("1_1r265")
-asset_name = "PineTree"
-download_url = "https://raw.githubusercontent.com/GoatDevilDev/GameAssets/refs/heads/main/Basic%20pine%20tree.tres"
-metadata/_custom_type_script = "uid://bnck2lu477xi0"
